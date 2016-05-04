@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListIndexIOS.iml" filepath="$PROJECT_DIR$/ListIndexIOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListIndexIOSLibrary/ListIndexIOSLibrary.iml" filepath="$PROJECT_DIR$/ListIndexIOSLibrary/ListIndexIOSLibrary.iml" />
+    </modules>
+  </component>
+</project>
